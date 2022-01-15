@@ -1,6 +1,5 @@
-const isCitizen = true;
-const age = 26;
-
-if (isCitizen && age > 18) {
-  console.log("You are eligible to vote.");
+var x = 10;
+while (x <= 25); {
+  console.log("Printing out x " + x);
+  x = x + 2;
 }
